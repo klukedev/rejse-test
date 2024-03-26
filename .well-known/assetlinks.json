@@ -1,0 +1,23 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "dk.rejsekort.rejsebillet.dev",
+      "sha256_cert_fingerprints": [
+        "E4:D7:F9:A6:FD:A9:63:ED:22:E6:86:11:65:7E:FB:33:30:3E:05:98:0B:86:67:DB:E1:79:70:A1:11:68:6D:95",
+		"7D:BF:8D:2E:4C:0B:FF:8D:46:4E:BA:E1:2E:B6:01:07:77:8F:87:83:A8:D2:B5:21:72:6C:DD:FE:D5:30:F9:9C"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "dk.rejsekort.rejsebillet",
+      "sha256_cert_fingerprints": [
+        "8D:4F:CC:AD:7D:B6:E7:3C:0F:34:D1:D1:4B:AB:ED:85:D5:BC:93:F6:A1:C4:F0:36:6F:24:7D:E4:41:A3:73:14"
+      ]
+    }
+  }
+]
